@@ -1,0 +1,10 @@
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Form1.resources
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Resources.resources
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.vbproj.GenerateResource.Cache
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\bin\Debug\kalkulator2.xml
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.xml
+E:\TUGAS Manajemen Informatika\Semester 3\GUI\Project\Latihan\Latihan\My Project\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
